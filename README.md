@@ -1,2 +1,5 @@
-# AmazonClone
-A simple static Amazon homepage clone built using HTML and CSS as a front-end practice project.
+# Amazon Clone
+A simple static Amazon home page built using HTML and CSS.
+
+## Link
+https://sagarhanchin20.github.io/AmazonClone/index.html
