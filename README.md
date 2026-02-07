@@ -1,8 +1,8 @@
-# Amazon Clone
+# 🛒 Amazon Clone
 A simple static Amazon home page built using HTML and CSS.
 
-## Screenshot
+## 📸 Screenshot
 <img src="Home Page.jpeg">
 
-## Link
+## 🔗 Link
 https://sagarhanchin20.github.io/AmazonClone/index.html
