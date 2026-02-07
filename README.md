@@ -1,5 +1,5 @@
 # 🛒 Amazon Clone
-A simple static Amazon home page built using HTML and CSS.
+A simple static Amazon home page built using HTML and CSS to practice the basics.
 
 ## 📸 Screenshot
 <img src="Home Page.jpeg">
